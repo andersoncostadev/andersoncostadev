@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Anderson Costa 👋
-
+_   <strong>  Trabalhando:</strong> <b><i> Méliuz - Desenvelvodor Frontend mobile.</i></b>
 - 🤓 <strong> Cursando:</strong> <b><i>Analise e Desenvolvimento de Sistemas.</i></b>
-- 🌱 <strong> Estudando:</strong> <b><i>React.JS, Next.JS e Typescript.</i></b>
+- 🌱 <strong> Estudando:</strong> <b><i>React.JS, ReactNative, Next.JS e Typescript.</i></b>
 - 📫 <strong>Contate - me no email:</strong> andersonmtb88@gmail.com
 - 😄 <strong>Pronouns:</strong> <b><i>ele/dele</i></b>
 
