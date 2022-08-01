@@ -1,8 +1,8 @@
 ### Olá! Eu sou o Anderson Costa 👋
-- 👨‍💻 <strong>Desenvelvodor:</strog> <b><i>na Levva</i></b>
+- 👨‍💻 <strong>Desenvelvodor:</strog> <b><i>Frontend na Levva</i></b>
 - 🤓 <strong> Cursando:</strong> <b><i>Analise e Desenvolvimento de Sistemas.</i></b>
 - 🌱 <strong> Estudos:</strong> <b><i> C#, .Net, React.JS, ReactNative, Next.JS e Typescript.</i></b>
-- 🌱 <strong> Trabalhando:</strong> <b><i> Laravel e PHP.</i></b>
+- 🌱 <strong> Trabalhando:</strong> <b><i> React.JS.</i></b>
 - 📫 <strong>Contate - me no email:</strong> andersonmtb88@gmail.com
 - 😄 <strong>Pronouns:</strong> <b><i>ele/dele</i></b>
 
