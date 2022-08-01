@@ -1,5 +1,5 @@
 ### Olá! Eu sou o Anderson Costa 👋
-- 👨‍💻 <strong>Desenvelvodor:</strog> <b><i>na Méliuz</i></b>
+- 👨‍💻 <strong>Desenvelvodor:</strog> <b><i>na Levva</i></b>
 - 🤓 <strong> Cursando:</strong> <b><i>Analise e Desenvolvimento de Sistemas.</i></b>
 - 🌱 <strong> Estudos:</strong> <b><i> C#, .Net, React.JS, ReactNative, Next.JS e Typescript.</i></b>
 - 🌱 <strong> Trabalhando:</strong> <b><i> Laravel e PHP.</i></b>
