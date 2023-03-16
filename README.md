@@ -2,7 +2,7 @@
 - 👨‍💻 <strong>Desenvelvodor:</strog> <b><i> Backend e Frontend na Levva</i></b>
 - 🤓 <strong> Cursando:</strong> <b><i>Analise e Desenvolvimento de Sistemas.</i></b>
 - 🌱 <strong> Estudos:</strong> <b><i> C#, .Net, React.JS, ReactNative, Next.JS e Typescript.</i></b>
-- 🌱 <strong> Trabalhando:</strong> <b><i> React.JS.</i></b>
+- 🌱 <strong> Trabalhando:</strong> <b><i> Atualmente .DotNet </i></b>
 - 📫 <strong>Contate - me no email:</strong> andersonmtb88@gmail.com
 - 😄 <strong>Pronouns:</strong> <b><i>ele/dele</i></b>
 
