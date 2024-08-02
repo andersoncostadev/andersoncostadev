@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Anderson Costa 👋
 - 👨‍💻 <strong>Desenvelvodor:</strog> <b><i> Backend e Frontend na Levva</i></b>
-- 🤓 <strong> Cursando:</strong> <b><i>Analise e Desenvolvimento de Sistemas.</i></b>
+- 🤓 <strong> Formado:</strong> <b><i>Analise e Desenvolvimento de Sistemas.</i></b>
 - 🌱 <strong> Estudos:</strong> <b><i> C#, .Net, React.JS, ReactNative, Next.JS e Typescript.</i></b>
 - 🌱 <strong> Trabalhando:</strong> <b><i> Atualmente .Net </i></b>
 - 📫 <strong>Contate - me no email:</strong> andersonmtb88@gmail.com
